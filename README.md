@@ -1,42 +1,34 @@
 ## Hi there 👋
 
-I'm still a student smh 🚶‍♂️  
-CSE undergrad who plays around with **C++**, still figuring things out while quietly working on a few projects on the side.
+I'm a CSE undergrad who mostly works with **C++**, learning by building and quietly working on a few projects along the way.
 
 ---
 
-### 🔭 I’m currently working on
-- Strengthening fundamentals in C++
-- Personal projects (low-key, not all public yet)
+### 👤 Who am I?
+Computer Science Engineering student with a growing interest in systems and problem-solving.
 
-### 🌱 I’m currently learning
-- Better problem-solving
-- How systems actually work under the hood
+### 🔭 What am I currently working on?
+- Improving problem-solving skills in C++
+- Building small projects (some public, some kept low-key)
 
-### 👯 I’m looking to collaborate on
-- Beginner-friendly C++ projects
-- Anything that helps me learn by building
+### 🛠️ What tools do I use?
+- C++
+- Git & GitHub
+- Linux
+- VS Code
 
-### 🤔 I’m looking for help with
-- Writing cleaner, more efficient code
-- Understanding real-world engineering practices
-
-### 💬 Ask me about
-- C++ basics
-- Learning CS as a student (the hard way)
-
-### 📫 How to reach me
-- LinkedIn (check profile)
-
-### 😄 Pronouns
-- He / Him
+### 📫 How to reach me?
+- LinkedIn (linked on my profile)
 
 ### ⚡ Fun fact
-Apart from code, I’m a mythology reader, a self-proclaimed photographer lol, and a quiet observer of the cosmos ☆
+- Read mythology  
+- Do photography (self-proclaimed 😄)  
+- Overthink the cosmos ☆
 
 ---
 
-Learning slowly. Building honestly. Still figuring things out.
+Learning by doing. One step at a time.
+
 
 
 
