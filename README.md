@@ -10,7 +10,6 @@ Developer
 $ current-focus
 Competitive Programming
 Full-Stack Development
-Open Source
 
 $ stack
 C++ JavaScript React Node.js PostgreSQL Linux Git
