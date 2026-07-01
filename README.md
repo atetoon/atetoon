@@ -1,3 +1,5 @@
+![pixelart](pixelart.gif)
+
 ## Hi there 👋
 
 I'm a CSE undergrad working mostly with **C++**, learning by building and figuring things out along the way.
