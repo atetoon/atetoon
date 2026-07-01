@@ -1,32 +1,22 @@
 ![pixelart](pixelart.gif)
 
-## Hi there 👋
+```bash
+$ whoami
+Dhruv
 
-I'm a CSE undergrad working mostly with **C++**, learning by building and figuring things out along the way.
+$ role
+Developer
 
----
+$ current-focus
+Competitive Programming
+Full-Stack Development
+Open Source
 
-### 👤 About me
-Interested in systems and problem-solving, currently exploring things step by step.
+$ stack
+C++ JavaScript React Node.js PostgreSQL Linux Git
 
-### 🔭 Currently
-- Improving problem-solving in C++
-- Building small projects (some public, some low-key)
+$ pwd
+~/no-shortcuts
 
-### 🛠️ Tools
-- C++
-- Git & GitHub
-- Linux
-- VS Code
-
-### 📫 Reach me
-- LinkedIn (linked on profile)
-
-### ⚡ Fun stuff
-- Reading mythology  
-- Photography (self-proclaimed 😄)  
-- Open to conversations (coffee helps ☕)
-
----
-
-Learning by doing. One step at a time.
+$ exit
+```
