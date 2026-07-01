@@ -1,4 +1,4 @@
-![pixelart](pixelart2.gif)
+![pixelart](pixelart3.gif)
 
 
 <p align="center">
