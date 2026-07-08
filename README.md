@@ -7,17 +7,18 @@
 
 ```bash
 $ whoami
-Dhruv
+dhruv
 
 $ role
-Developer
+identifying
 
 $ current-focus
-Competitive Programming
-Full-Stack Development
+web dev
+competitive programming
+
 
 $ stack
-C++ JavaScript React Node.js PostgreSQL Linux Git
+C++ JavaScript Express.js Node.js PostgreSQL Linux Git
 
 $ pwd
 ~/no-shortcuts
