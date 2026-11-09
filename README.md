@@ -1,4 +1,4 @@
-![pixelart](shrine.mp4)
+![pixelart](pixelart8.gif)
 
 
 <p align="center">
